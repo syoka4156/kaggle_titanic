@@ -64,3 +64,6 @@ There might be overfitting.
 | 2   | 0.79     | 0.80      | 0.77   | 0.78 | 0.75598      | 
 | 3   | 0.78     | 0.83      | 0.70   | 0.76 | 0.76794      | 
 | 4   | 0.75     | 0.75      | 0.75   | 0.75 | 0.76794      | 
+
+## LICENSE
+The source code is licensed MIT, see LICENSE.
